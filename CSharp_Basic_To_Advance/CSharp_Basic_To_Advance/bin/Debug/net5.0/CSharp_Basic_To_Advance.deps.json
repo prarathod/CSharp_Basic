@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharp_Basic_To_Advance/1.0.0": {
+        "runtime": {
+          "CSharp_Basic_To_Advance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp_Basic_To_Advance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

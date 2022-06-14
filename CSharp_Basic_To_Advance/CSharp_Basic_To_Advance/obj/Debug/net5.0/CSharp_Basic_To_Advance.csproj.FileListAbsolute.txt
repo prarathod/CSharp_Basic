@@ -1,0 +1,16 @@
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\bin\Debug\net5.0\CSharp_Basic_To_Advance.exe
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\bin\Debug\net5.0\CSharp_Basic_To_Advance.deps.json
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\bin\Debug\net5.0\CSharp_Basic_To_Advance.runtimeconfig.json
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\bin\Debug\net5.0\CSharp_Basic_To_Advance.runtimeconfig.dev.json
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\bin\Debug\net5.0\CSharp_Basic_To_Advance.dll
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\bin\Debug\net5.0\CSharp_Basic_To_Advance.pdb
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.csproj.AssemblyReference.cache
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.AssemblyInfoInputs.cache
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.AssemblyInfo.cs
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.csproj.CoreCompileInputs.cache
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.dll
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\refint\CSharp_Basic_To_Advance.dll
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.pdb
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\CSharp_Basic_To_Advance.genruntimeconfig.cache
+C:\Users\Prajwal.Rathod\source\repos\prarathod\CSharp_Basic\CSharp_Basic_To_Advance\CSharp_Basic_To_Advance\obj\Debug\net5.0\ref\CSharp_Basic_To_Advance.dll
