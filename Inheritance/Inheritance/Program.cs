@@ -25,9 +25,10 @@ namespace Inheritance
        
         static void Main(string[] args)
         {
-            DerivedClass obj1 = new DerivedClass();
+            DerivedClass2 obj1 = new DerivedClass2();
             obj1.Show1();
             obj1.Show2();
+            obj1.Show3();
             Console.WriteLine("Hello World!");
         }
     }
