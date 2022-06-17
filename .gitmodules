@@ -1,0 +1,3 @@
+[submodule "Secure_Web_App_With_Core_Identity_Framework/mslearn-secure-aspnet"]
+	path = Secure_Web_App_With_Core_Identity_Framework/mslearn-secure-aspnet
+	url = https://github.com/MicrosoftDocs/mslearn-secure-aspnet-core-identity
