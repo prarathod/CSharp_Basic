@@ -1,0 +1,13 @@
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\PracticeDatabaseFirstDemo.exe.config
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\PracticeDatabaseFirstDemo.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\PracticeDatabaseFirstDemo.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\obj\Debug\PracticeDatabaseFirstDemo.csproj.AssemblyReference.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\obj\Debug\PracticeDatabaseFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\obj\Debug\PracticeDatabaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\obj\Debug\PracticeDatabaseFirstDemo.csproj.CopyComplete
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\obj\Debug\PracticeDatabaseFirstDemo.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\PracticeDatabaseFirstDemo\PracticeDatabaseFirstDemo\obj\Debug\PracticeDatabaseFirstDemo.pdb
