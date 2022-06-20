@@ -1,0 +1,13 @@
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CopyComplete
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

@@ -1,0 +1,13 @@
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\MVCDatabaseFirstDemo.exe.config
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\MVCDatabaseFirstDemo.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\MVCDatabaseFirstDemo.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\obj\Debug\MVCDatabaseFirstDemo.csproj.AssemblyReference.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\obj\Debug\MVCDatabaseFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\obj\Debug\MVCDatabaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\obj\Debug\MVCDatabaseFirstDemo.csproj.CopyComplete
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\obj\Debug\MVCDatabaseFirstDemo.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\MVCDatabaseFirstDemo\MVCDatabaseFirstDemo\obj\Debug\MVCDatabaseFirstDemo.pdb
