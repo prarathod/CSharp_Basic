@@ -1,0 +1,15 @@
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe.config
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\EntityFramework.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\EntityFramework.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.AssemblyReference.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.CoreCompileInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.CopyComplete
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.Migrations.CreatePost.resources
+C:\Prajwal\autho\mslearn\CSharp_Basic\CodeFirstDemo1\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.GenerateResource.cache
