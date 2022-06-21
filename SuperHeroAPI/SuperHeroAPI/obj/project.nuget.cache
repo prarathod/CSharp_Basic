@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHC+WnnvN69SBa/irwo53zoMf/whF/7dl+fBKOqMmgZU8xZ3OG+WUnAl0c1fxa7uFVjKk7XOanNsRnR77xGeYw==",
+  "success": true,
+  "projectFilePath": "C:\\Prajwal\\autho\\mslearn\\CSharp_Basic\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
