@@ -1,0 +1,13 @@
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EmployeeDBConsoleApp.exe.config
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EmployeeDBConsoleApp.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EmployeeDBConsoleApp.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EntityFramework.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EntityFramework.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\obj\Debug\EmployeeDBConsoleApp.csproj.AssemblyReference.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\obj\Debug\EmployeeDBConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\obj\Debug\EmployeeDBConsoleApp.csproj.CoreCompileInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\obj\Debug\EmployeeDBConsoleApp.csproj.CopyComplete
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\obj\Debug\EmployeeDBConsoleApp.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\EmployeeDBConsoleApp\EmployeeDBConsoleApp\obj\Debug\EmployeeDBConsoleApp.pdb
