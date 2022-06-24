@@ -10,7 +10,11 @@ namespace ConsoleApp9
     {
         static void Main(string[] args)
         {
-            
+            for(int i = 0; i < 1000000; i++)
+            {
+                i++;
+            }
+            Console.ReadLine();
         }
     }
 }
