@@ -15,10 +15,8 @@ namespace EmployeeDBConsoleApp
             Console.Write("Enter Employee Name:- ");
             string name = Console.ReadLine();
 
-            Console.Write("Enter Employee Name:- ");
+            Console.Write("Enter Employee Age:- ");
             int age = Convert.ToInt32(Console.ReadLine());
-
-
 
             EmployeeTable table = new EmployeeTable();
             table.EmployeeName = name;
