@@ -13,7 +13,7 @@ var connectionString = builder.Configuration.GetConnectionString("HotelListingDb
 builder.Services.AddDbContext<HotelListingDbContext>(options =>
 {
     options.UseSqlServer(connectionString);
-});
+});  
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", b => b.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod());
