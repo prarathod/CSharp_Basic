@@ -14,7 +14,7 @@ namespace DataBaseFirst
             var post = new POST
             {
                 Body ="Body",
-                Data
+               
             }
         }
     }
