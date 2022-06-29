@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoListAPI.Data;
+using TodoListAPI.Models.TodoWork;
 
 namespace TodoListAPI.Controllers
 {
@@ -83,8 +84,13 @@ namespace TodoListAPI.Controllers
         // POST: api/TodoWorks
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<TodoWork>> PostTodoWork(TodoWork todoWork)
+        public async Task<ActionResult<TodoWorkModel>> PostTodoWork(TodoWorkModel todoWorkModel)
         {
+            var todoWork = new TodoWork
+            {
+                Title = todoWorkModel.Title,
+                Body = todoWorkModel.Body
+            };
           if (_context.TodoWorks == null)
           {
               return Problem("Entity set 'TodoListDbContext.TodoWorks'  is null.");
