@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendList.API", "FriendList.API\FriendList.API.csproj", "{3AC1E500-93FE-4539-A431-55404833E37C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC1E500-93FE-4539-A431-55404833E37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC1E500-93FE-4539-A431-55404833E37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC1E500-93FE-4539-A431-55404833E37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC1E500-93FE-4539-A431-55404833E37C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF582D3B-70C4-45D7-9A49-6D89E7A7D887}
+	EndGlobalSection
+EndGlobal
