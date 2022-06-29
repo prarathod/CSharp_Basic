@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo</title>
+</head>
+
+<body>
+    <header>
+        <div>
+            <h1>TODO APP</h1>
+        </div>
+    </header>
+    <div id="body"></div>
+</body>
+
+</html>
+<script>
+    async function getData() {
+      let data = await fetch("https://localhost:7126/api/TodoWorks")
+      let res = await data.json();
+        console.log(res)
+    }
+
+    window.document.onload(getData())
+
+
+
+</script>
