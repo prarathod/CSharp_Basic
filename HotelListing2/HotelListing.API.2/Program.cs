@@ -39,5 +39,7 @@ app.UseCors("AllowAll");
 app.UseAuthorization();
 
 app.MapControllers();
+for(int i = 1; i < 10000000000; i++) { 
 
+};
 app.Run();
