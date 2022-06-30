@@ -261,3 +261,5 @@ C:\Prajwal\autho\mslearn\CSharp_Basic\HotelListing2\HotelListing.API.2\bin\Debug
 C:\Prajwal\autho\mslearn\CSharp_Basic\HotelListing2\HotelListing.API.2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Prajwal\autho\mslearn\CSharp_Basic\HotelListing2\HotelListing.API.2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Prajwal\autho\mslearn\CSharp_Basic\HotelListing2\HotelListing.API.2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\HotelListing2\HotelListing.API.2\bin\Debug\net6.0\AutoMapper.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\HotelListing2\HotelListing.API.2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

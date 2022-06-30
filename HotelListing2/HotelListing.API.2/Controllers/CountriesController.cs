@@ -17,7 +17,6 @@ namespace HotelListing.API._2.Controllers
     {
         private readonly HotelListingDbContext _context;
         private readonly IMapper _mapper;
-        private object createCountryDto;
 
         public CountriesController(HotelListingDbContext context,IMapper mapper)
         {
@@ -27,9 +26,11 @@ namespace HotelListing.API._2.Controllers
 
         // GET: api/Countries
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Country>>> GetCountries()
+        public async Task<ActionResult<IEnumerable<GetCountryDto>>> GetCountries()
         {
-            return await _context.Countries.ToListAsync();
+            var countires =  await _context.Countries.ToListAsync();
+            var records = _mapper.Map<List<GetCountryDto>>(countires);
+            return Ok(countires);
         }
 
         // GET: api/Countries/5
@@ -88,7 +89,7 @@ namespace HotelListing.API._2.Controllers
             //    ShortName = createCountry.ShortName
             //};
 
-            var country = _mapper.Map<Country>(createCountryDto);
+            var country = _mapper.Map<Country>(createCountry);
 
             _context.Countries.Add(country);
             await _context.SaveChangesAsync();
