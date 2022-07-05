@@ -19,15 +19,10 @@
 
 </html>
 <script>
-    async function getData() {
-      let data = await fetch("https://localhost:7126/api/TodoWorks")
-      let res = await data.json();
-        console.log(res)
+    function ShowList(){
+        let list = ['Welk Up', 'Yoga','Office Work','Exersice','Dinner','CP','Business'];
     }
+    
 
-
-    window.document.onload(getData())
-
-
-
+    document.onload(ShowList());
 </script>
