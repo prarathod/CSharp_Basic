@@ -1,0 +1,15 @@
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.exe
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.deps.json
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.runtimeconfig.json
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.AssemblyInfo.cs
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\refint\ConsoleApp10.dll
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.pdb
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.genruntimeconfig.cache
+C:\Prajwal\autho\mslearn\CSharp_Basic\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ref\ConsoleApp10.dll
