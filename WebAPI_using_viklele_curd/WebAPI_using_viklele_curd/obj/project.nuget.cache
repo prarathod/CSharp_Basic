@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkrChhWnvANmdAZM115CKHRhMuxEVOpAEd1pmc9T0AP6V3c51ReuWghZKWNZIZe/dY1Xmd03TbKl32d9vokCKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Prajwal\\autho\\mslearn\\CSharp_Basic\\WebAPI_using_viklele_curd\\WebAPI_using_viklele_curd\\WebAPI_using_viklele_curd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Prajwal.Rathod\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
