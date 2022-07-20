@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://baget.viklele.com/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -39,6 +40,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Viklele.CRUD.AuthorizationValidators": {
+              "target": "Package",
+              "version": "[1.0.0.58, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
